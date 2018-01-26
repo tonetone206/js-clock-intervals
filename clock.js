@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-  
+   console.log("DOM fully loaded and parsed");
 var degrees = 0;
  
 var secondsDegrees = 0
